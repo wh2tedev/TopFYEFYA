@@ -1,25 +1,25 @@
 [
   {
     "nombre": "Ezequiel (EI)",
-    "goles": 16,
-    "asistencias": 21,
-    "gp": 0.5,
+    "goles": 20,
+    "asistencias": 23,
+    "gp": 0.80,
     "hattricks": 1,
-    "ap": 1.13,
+    "ap": 0.92,
     "semana": {
       "goles": 4,
-      "asistencias": 3
+      "asistencias": 2
     }
   },
   {
     "nombre": "Bola (LI)",
-    "goles": 4,
-    "asistencias": 0,
-    "gp": 0.25,
+    "goles": 8,
+    "asistencias": 1,
+    "gp": 0.40,
     "hattricks": 0,
-    "ap": 0,
+    "ap": 0.05,
     "semana": {
-      "goles": 0,
+      "goles": 4,
       "asistencias": 0,
       "hattricks": 0,
       "bloqueos": 0,
@@ -29,25 +29,25 @@
   },
   {
     "nombre": "Samuel (ED)",
-    "goles": 24,
-    "asistencias": 18,
-    "gp": 1.06,
+    "goles": 32,
+    "asistencias": 20,
+    "gp": 1.28,
     "hattricks": 2,
-    "ap": 0.88,
+    "ap": 0.80,
     "semana": {
-      "goles": 7,
-      "asistencias": 4
+      "goles": 8,
+      "asistencias": 2
     }
   },
   {
     "nombre": "Steven (MC/DEL)",
-    "goles": 12,
-    "asistencias": 1,
-    "gp": 0.75,
+    "goles": 18,
+    "asistencias": 2,
+    "gp": 0.90,
     "hattricks": 2,
-    "ap": 0.06,
+    "ap": 0.10,
     "semana": {
-      "goles": 4,
+      "goles": 1,
       "asistencias": 0
     }
   },
@@ -65,34 +65,34 @@
       "hattricks": 0,
       "bloqueos": 0,
       "entradas": 0,
-      "salvadas": 1
+      "salvadas": 0
     }
   },
   {
     "nombre": "Jhordy (DFC)",
-    "goles": 8,
-    "asistencias": 3,
-    "gp": 0.38,
+    "goles": 9,
+    "asistencias": 4,
+    "gp": 0.45,
     "hattricks": 0,
-    "ap": 0.13,
+    "ap": 0.20,
     "bloqueos": 9,
     "entradas": 2,
     "semana": {
-      "goles": 2,
+      "goles": 1,
       "asistencias": 1,
       "hattricks": 0,
-      "bloqueos": 2,
+      "bloqueos": 0,
       "entradas": 0,
       "salvadas": 0
     }
   },
   {
     "nombre": "Alexander (DFC)",
-    "goles": 7,
+    "goles": 8,
     "asistencias": 2,
-    "gp": 0.38,
+    "gp": 0.40,
     "hattricks": 0,
-    "ap": 0.13,
+    "ap": 0.10,
     "bloqueos": 6,
     "entradas": 2,
     "semana": {
@@ -106,14 +106,14 @@
   },
   {
     "nombre": "Franklin (LD)",
-    "goles": 20,
-    "asistencias": 24,
-    "gp": 0.94,
+    "goles": 25,
+    "asistencias": 29,
+    "gp": 1.25,
     "hattricks": 2,
-    "ap": 1.25,
+    "ap": 1.45,
     "semana": {
       "goles": 5,
-      "asistencias": 4
+      "asistencias": 5
     }
   },
   {
@@ -123,21 +123,21 @@
     "gp": 0,
     "hattricks": 0,
     "ap": 0,
-    "salvadas": 4,
+    "salvadas": 8,
     "semana": {
       "goles": 0,
       "asistencias": 0,
       "hattricks": 0,
       "bloqueos": 0,
       "entradas": 0,
-      "salvadas": 2
+      "salvadas": 4
     }
   },
   {
     "nombre": "Royce (LD)",
     "goles": 1,
     "asistencias": 0,
-    "gp": 0.125,
+    "gp": 0.05,
     "hattricks": 0,
     "ap": 0,
     "semana": {
@@ -151,13 +151,13 @@
   },
   {
     "nombre": "Josmil (DC)",
-    "goles": 21,
+    "goles": 24,
     "asistencias": 3,
-    "gp": 1.31,
+    "gp": 0.96,
     "hattricks": 0,
-    "ap": 0.19,
+    "ap": 0.12,
     "semana": {
-      "goles": 0,
+      "goles": 3,
       "asistencias": 0
     }
   },
@@ -165,9 +165,9 @@
     "nombre": "Andres (POR)",
     "goles": 2,
     "asistencias": 2,
-    "gp": 0.17,
+    "gp": 0.1,
     "hattricks": 0,
-    "ap": 0.17,
+    "ap": 0.1,
     "salvadas": 30,
     "semana": {
       "goles": 0,
@@ -175,16 +175,16 @@
       "hattricks": 0,
       "bloqueos": 0,
       "entradas": 0,
-      "salvadas": 1
+      "salvadas": 0
     }
   },
   {
     "nombre": "Antony (DFC)",
     "goles": 1,
     "asistencias": 5,
-    "gp": 0.08,
+    "gp": 0.05,
     "hattricks": 0,
-    "ap": 0.5,
+    "ap": 0.2,
     "bloqueos": 43,
     "entradas": 9,
     "semana": {
