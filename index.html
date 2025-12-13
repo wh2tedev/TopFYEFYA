@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- Evitar caché y forzar actualización inmediata -->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+  <title>Top Jugadores — FYE FYA</title>
+  <link rel="stylesheet" href="style.css?v=1.0.5" />
+</head>
+<body>
+  <!-- SIDEBAR (off-canvas) -->
+  <button id="btn-config" class="btn-config" aria-label="Abrir configuración" title="Configuración">
+    <span></span><span></span><span></span>
+  </button>
+
+  <aside id="sidebar-config" class="sidebar-config" aria-hidden="true">
+    <h2>Configuración</h2>
+
+    <div class="config-item">
+      <label for="switch-medallas">Mostrar medallas</label>
+      <label class="switch" title="Mostrar medallas">
+        <input type="checkbox" id="switch-medallas" />
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="config-item">
+      <label for="switch-tema">Modo claro</label>
+      <label class="switch" title="Modo claro">
+        <input type="checkbox" id="switch-tema" />
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="config-item">
+      <label for="select-orden">Ordenar ranking por</label>
+      <select id="select-orden" aria-label="Ordenar ranking">
+        <option value="puntaje">⭐ Puntaje total</option>
+        <option value="goles">⚽ Goles</option>
+        <option value="asistencias">🎯 Asistencias</option>
+        <option value="ga">🔥 G/A</option>
+      </select>
+    </div>
+  </aside>
+
+  <main class="main-content" id="main">
+    <div class="container">
+      <header class="header">
+        <h1 class="title">🏆 Top jugadores FYE FYA</h1>
+        <p class="subtitle">Todas las estadísticas se actualizarán el viernes/sábado.</p>
+      </header>
+
+      <!-- Jugador de la semana (tarjeta) -->
+      <section id="jugador-semana" class="card jugador-semana" aria-live="polite">
+        <div class="jugador-placeholder">
+          <p>Cargando jugador de la semana...</p>
+        </div>
+      </section>
+
+      <!-- Tabla: mantenemos la estructura pero con markup más estable -->
+      <div class="table-wrap">
+        <table id="tabla-jugadores" class="tabla-jugadores" aria-label="Top jugadores">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Jugador</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- Info inferior (partidos y balón de oro) -->
+      <section id="partidos-balon" class="cards-row">
+        <article class="card info-card">
+          <h3>🏅 Balón de Oro</h3>
+          <p class="muted">Próximamente — 2026</p>
+        </article>
+
+        <article class="card info-card">
+          <h3>📊 Partidos jugados</h3>
+          <p><strong>FYE:</strong> 20 Partidos</p>
+          <p><strong>FYA:</strong> 26 Partidos</p>
+        </article>
+      </section>
+
+      <footer class="footer">
+        <p>By: <strong>Wh2teDev.</strong></p>
+        <p>Created: <strong>15/10/25</strong></p>
+      </footer>
+    </div>
+  </main>
+
+  <!-- Botón flotante centrado (ver más) -->
+  <button id="btn-vermas" class="btn-vermas" aria-label="Ver más">⬇</button>
+
+  <script src="script.js?v=1.0.6"></script>
+</body>
+  </html>
