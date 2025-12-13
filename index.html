@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Top Jugadores — FYE FYA</title>
+  <link rel="stylesheet" href="style.css?v=1.0.6" />
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+  <!-- SIDEBAR (off-canvas) -->
+  <button id="btn-config" class="btn-config" aria-label="Abrir configuración" title="Configuración">
+    <span></span><span></span><span></span>
+  </button>
+
+  <aside id="sidebar-config" class="sidebar-config" aria-hidden="true">
+    <h2><i data-lucide="settings" class="icon-inline"></i> Configuración</h2>
+
+    <div class="config-item">
+      <label for="switch-medallas"><i data-lucide="award" class="icon-small"></i> Mostrar medallas</label>
+      <label class="switch" title="Mostrar medallas">
+        <input type="checkbox" id="switch-medallas" />
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="config-item">
+      <label for="switch-tema"><i data-lucide="sun" class="icon-small"></i> Modo claro</label>
+      <label class="switch" title="Modo claro">
+        <input type="checkbox" id="switch-tema" />
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="config-item">
+      <label for="select-orden"><i data-lucide="arrow-up-down" class="icon-small"></i> Ordenar ranking por</label>
+      <select id="select-orden" aria-label="Ordenar ranking">
+        <option value="puntaje">⭐ Puntaje total</option>
+        <option value="goles">⚽ Goles</option>
+        <option value="asistencias">🎯 Asistencias</option>
+        <option value="ga">🔥 G/A</option>
+      </select>
+    </div>
+  </aside>
+
+  <main class="main-content" id="main">
+    <div class="container">
+      <header class="header">
+        <h1 class="title"><i data-lucide="trophy" class="icon-title"></i> Top jugadores FYE FYA</h1>
+        <p class="subtitle">Todas las estadísticas se actualizarán el viernes/sábado.</p>
+      </header>
+
+      <!-- Jugador de la semana -->
+      <section id="jugador-semana" class="card jugador-semana" aria-live="polite">
+        <div class="jugador-placeholder">
+          <p>Cargando jugador de la semana...</p>
+        </div>
+      </section>
+
+      <!-- Nueva sección: Resumen de estadísticas -->
+      <section class="stats-summary" id="stats-summary">
+        <div class="stat-box">
+          <div class="stat-icon"><i data-lucide="target"></i></div>
+          <span class="stat-value" id="total-goles">0</span>
+          <span class="stat-label">Goles Totales</span>
+        </div>
+        <div class="stat-box">
+          <div class="stat-icon"><i data-lucide="crosshair"></i></div>
+          <span class="stat-value" id="total-asistencias">0</span>
+          <span class="stat-label">Asistencias Totales</span>
+        </div>
+        <div class="stat-box">
+          <div class="stat-icon"><i data-lucide="users"></i></div>
+          <span class="stat-value" id="total-jugadores">0</span>
+          <span class="stat-label">Jugadores</span>
+        </div>
+        <div class="stat-box">
+          <div class="stat-icon"><i data-lucide="zap"></i></div>
+          <span class="stat-value" id="total-hattricks">0</span>
+          <span class="stat-label">Hat-tricks</span>
+        </div>
+      </section>
+
+      <!-- Tabla de jugadores -->
+      <div class="table-wrap">
+        <table id="tabla-jugadores" class="tabla-jugadores" aria-label="Top jugadores">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Jugador</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- Info inferior -->
+      <section id="partidos-balon" class="cards-row">
+        <article class="card info-card">
+          <h3><i data-lucide="award" class="icon-inline"></i> Balón de Oro</h3>
+          <p class="muted">Próximamente — 2026</p>
+        </article>
+
+        <article class="card info-card">
+          <h3><i data-lucide="bar-chart-3" class="icon-inline"></i> Partidos jugados</h3>
+          <p><strong>FYE:</strong> 20 Partidos</p>
+          <p><strong>FYA:</strong> 26 Partidos</p>
+        </article>
+      </section>
+
+      <footer class="footer">
+        <p>By: <strong>Wh2teDev.</strong></p>
+        <p>Created: <strong>15/10/25</strong></p>
+      </footer>
+    </div>
+  </main>
+
+  <!-- Botón flotante centrado -->
+  <button id="btn-vermas" class="btn-vermas" aria-label="Ver más">
+    <i data-lucide="chevron-down"></i>
+  </button>
+
+  <script src="script.js?v=1.0.7"></script>
+</body>
+  </html>
