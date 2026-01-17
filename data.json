@@ -2,19 +2,19 @@
   {
     "nombre": "Ezequiel (EI)",
     "equipo": "FYA",
-    "goles": 22,
-    "asistencias": 23,
-    "hattricks": 1,
+    "goles": 26,
+    "asistencias": 29,
+    "hattricks": 2,
     "semana": {
-      "goles": 0,
-      "asistencias": 0
+      "goles": 4,
+      "asistencias": 6
     }
   },
   {
     "nombre": "Bola (LI)",
     "equipo": "FYE",
-    "goles": 14,
-    "asistencias": 3,
+    "goles": 18,
+    "asistencias": 5,
     "hattricks": 0,
     "semana": {
       "goles": 3,
@@ -28,19 +28,19 @@
   {
     "nombre": "Samuel (ED)",
     "equipo": "FYA",
-    "goles": 33,
-    "asistencias": 20,
+    "goles": 39,
+    "asistencias": 23,
     "hattricks": 2,
     "semana": {
-      "goles": 0,
-      "asistencias": 0
+      "goles": 6,
+      "asistencias": 3
     }
   },
   {
     "nombre": "Steven (MC/DEL)",
     "equipo": "FYE",
-    "goles": 22,
-    "asistencias": 4,
+    "goles": 24,
+    "asistencias": 6,
     "hattricks": 2,
     "semana": {
       "goles": 4,
@@ -101,11 +101,11 @@
     "nombre": "Franklin (LI)",
     "equipo": "FYE",
     "goles": 30,
-    "asistencias": 31,
+    "asistencias": 32,
     "hattricks": 3,
     "semana": {
       "goles": 5,
-      "asistencias": 2
+      "asistencias": 3
     }
   },
   {
@@ -169,10 +169,10 @@
   {
     "nombre": "Antony (DFC)",
     "equipo": "FYA",
-    "goles": 1,
+    "goles": 4,
     "asistencias": 5,
     "hattricks": 0,
-    "bloqueos": 43,
+    "bloqueos": 55,
     "entradas": 9,
     "semana": {
       "goles": 0,
