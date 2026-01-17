@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // Partidos por equipo
   const PARTIDOS_FYE = 25;
-  const PARTIDOS_FYA = 26;
+  const PARTIDOS_FYA = 29;
 
   // Load JSON
   let jugadores = [];
