@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const balonOroSection = document.getElementById("balon-oro-section");
 
   // FECHA DE ENTREGA DEL BALÓN DE ORO
-  const FECHA_ENTREGA_BALON_ORO = new Date('2026-10-15T20:00:00');
+  const FECHA_ENTREGA_BALON_ORO = new Date('2027-1-1T20:00:00');
 
   // Preferences
   const prefMedallas = localStorage.getItem("mostrarMedallas") === "true";
