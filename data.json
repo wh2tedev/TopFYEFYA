@@ -11,6 +11,17 @@
     }
   },
   {
+    "nombre": "Abner ()",
+    "equipo": "FYA",
+    "goles": 3,
+    "asistencias": 4,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
     "nombre": "Bola (LI)",
     "equipo": "FYE",
     "goles": 0,
@@ -84,7 +95,7 @@
     "nombre": "Alexander (DFC)",
     "equipo": "FYE",
     "goles": 18,
-    "asistencias": 0,
+    "asistencias": 1,
     "hattricks": 0,
     "bloqueos": 0,
     "entradas": 0,
