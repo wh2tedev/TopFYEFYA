@@ -2,8 +2,8 @@
   {
     "nombre": "Ezequiel (EI)",
     "equipo": "FYA",
-    "goles": 1,
-    "asistencias": 6,
+    "goles": 8,
+    "asistencias": 11,
     "hattricks": 0,
     "semana": {
       "goles": 0,
@@ -39,8 +39,8 @@
   {
     "nombre": "Samuel (ED)",
     "equipo": "FYA",
-    "goles": 4,
-    "asistencias": 7,
+    "goles": 10,
+    "asistencias": 10,
     "hattricks": 0,
     "semana": {
       "goles": 0,
@@ -138,8 +138,8 @@
   {
     "nombre": "Josmil (DC)",
     "equipo": "FYA",
-    "goles": 7,
-    "asistencias": 0,
+    "goles": 12,
+    "asistencias": 1,
     "hattricks": 0,
     "semana": {
       "goles": 0,
@@ -149,10 +149,10 @@
   {
     "nombre": "Andres (POR)",
     "equipo": "FYA",
-    "goles": 5,
-    "asistencias": 0,
+    "goles": 9,
+    "asistencias": 3,
     "hattricks": 0,
-    "salvadas": 3,
+    "salvadas": 22,
     "semana": {
       "goles": 0,
       "asistencias": 0,
@@ -165,10 +165,10 @@
   {
     "nombre": "Antony (DFC)",
     "equipo": "FYA",
-    "goles": 0,
-    "asistencias": 1,
+    "goles": 1,
+    "asistencias": 3,
     "hattricks": 0,
-    "bloqueos": 0,
+    "bloqueos": 6,
     "entradas": 0,
     "semana": {
       "goles": 0,
