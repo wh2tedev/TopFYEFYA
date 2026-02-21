@@ -65,8 +65,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
 
   // Partidos por equipo
-  const PARTIDOS_FYE = 10;
-  const PARTIDOS_FYA = 5;
+  const PARTIDOS_FYE = 13;
+  const PARTIDOS_FYA = 11;
 
   // Load JSON
   let jugadores = [];
