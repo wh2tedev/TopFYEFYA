@@ -37,7 +37,7 @@
     }
   },
   {
-    "nombre": "Samuel (MCO)",
+    "nombre": "Samuel (MCO, CF)",
     "equipo": "FYA",
     "goles": 0,
     "asistencias": 0,
@@ -109,7 +109,7 @@
     }
   },
   {
-    "nombre": "Franklin (MC)",
+    "nombre": "Franklin (MC, EI)",
     "equipo": "FYE",
     "goles": 0,
     "asistencias": 0,
@@ -136,7 +136,73 @@
     }
   },
   {
-    "nombre": "Josmil (DC)",
+    "nombre": "Abel ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Dexter ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Dieguito ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Pedrito ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Dylan ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Jehoniel ()",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Josmil (CF)",
     "equipo": "FYA",
     "goles": 0,
     "asistencias": 0,
