@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Ezequiel (EI)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Abner (MCO)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Bola (LI)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Samuel (MCO)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Steven (MC/DEL)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Luis (POR)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "salvadas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Jhordy (DFC)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "bloqueos": 0,
+    "entradas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Alexander (DFC)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "bloqueos": 0,
+    "entradas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Franklin (MC)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Hessiel (POR)",
+    "equipo": "FYE",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "salvadas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Josmil (DC)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0
+    }
+  },
+  {
+    "nombre": "Andres (POR)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "salvadas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  },
+  {
+    "nombre": "Antony (DFC)",
+    "equipo": "FYA",
+    "goles": 0,
+    "asistencias": 0,
+    "hattricks": 0,
+    "bloqueos": 0,
+    "entradas": 0,
+    "semana": {
+      "goles": 0,
+      "asistencias": 0,
+      "hattricks": 0,
+      "bloqueos": 0,
+      "entradas": 0,
+      "salvadas": 0
+    }
+  }
+]
